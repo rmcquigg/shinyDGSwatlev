@@ -1,2 +1,2 @@
 # shinyDGSwatlev
-Shiny app for DGS groundwater network
+server and ui codes for a Shiny app: https://rmcquigg.shinyapps.io/DGS_realTime/
